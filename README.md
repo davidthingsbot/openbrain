@@ -4,6 +4,39 @@ A self-hosted, MCP-connected persistent memory layer for AI. One database. One o
 
 ---
 
+## Getting Started
+
+**What you need:** ~45 minutes, free accounts on three services, no coding experience required.
+
+**Step 1 — Create accounts (free tier on all three):**
+- [Supabase](https://supabase.com) — your database
+- [OpenRouter](https://openrouter.ai) — your AI gateway (add $5 in credits, lasts months)
+- [Slack](https://slack.com) — your capture interface
+
+**Step 2 — Clone this repo and open it in Claude Code:**
+```bash
+git clone https://github.com/davidthingsbot/openbrain.git
+cd openbrain
+claude
+```
+
+**Step 3 — Point Claude Code at the build guide:**
+```
+Build the Open Brain system described in the README and at
+https://promptkit.natebjones.com/20260224_uq1_guide_main
+
+Start with Phase 1: Supabase setup, then the ingest-thought Edge Function,
+then the MCP server. I have accounts on Supabase, OpenRouter, and Slack ready to go.
+```
+
+Claude Code will walk through the entire build. The guide has every SQL command, every line of Edge Function code, and every config step — it's designed to be handed directly to an AI.
+
+**Step 4 — Connect your AI clients** (Phase 2 in the plan below) and start capturing thoughts in Slack.
+
+> ⚠️ Keep your credentials (Supabase secret key, OpenRouter key, Slack bot token, MCP access key) in a local file outside the repo. Never commit them.
+
+---
+
 ## The Problem
 
 Every AI tool starts from zero. Claude doesn't know what ChatGPT knows. Your coding agent doesn't know your constraints. You burn your best thinking on re-explaining context instead of real work — and the corporate "memory" features are designed as lock-in, not as infrastructure you own.
