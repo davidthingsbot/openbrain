@@ -4,6 +4,20 @@ Ranked for signal quality on *building software and systems with AI*. Not news, 
 
 ---
 
+## 📖 Blogs — Essential Reading
+
+| Creator | Focus | Link |
+|---------|-------|------|
+| **Matt Webb** | AI interfaces, agent coordination, multiplayer AI, design theory — original thinking, highly referenced | [interconnected.org](https://interconnected.org/home/) |
+
+Key posts:
+- [The natural home for AI agents is your Reminders app](https://interconnected.org/home/2026/01/15/reminders) — agent coordination, kanban, multiplayer task surfaces
+- [Multiplayer AI chat and conversational turn-taking](https://interconnected.org/home/2025/05/23/turntaking) — multi-bot/multi-human rooms, Enthusiasm score algorithm
+- [The destination for AI interfaces is Do What I Mean](https://interconnected.org/home/2025/08/29/dwim) — intent-based UI, removing interface bureaucracy
+- [Universal Basic Agency](https://interconnected.org/home/2024/05/03/dreaming) — AI as creative enabler for everyone
+
+---
+
 ## S Tier — Required
 
 | # | Creator | Focus | Link |
