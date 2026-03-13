@@ -4,6 +4,14 @@ Ranked for signal quality on *building software and systems with AI*. Not news, 
 
 ---
 
+## 🐦 X / Social — Worth Following
+
+| Person | Who | Focus | Link |
+|--------|-----|-------|------|
+| **Boris Cherny** | Creator of Claude Code at Anthropic | AI writes 100% of his code; predicts "software engineer" job title disappears in 2026; inside view on where agentic coding goes | [x.com/bcherny](https://x.com/bcherny) |
+
+---
+
 ## 📖 Blogs — Essential Reading
 
 | Creator | Focus | Link |
